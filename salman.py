@@ -1,0 +1,18 @@
+# SEL 1: Output sederhana
+print("Hello, Data Science!")
+
+# SEL 2: Variabel & tipe data
+nama = "Salman Muhammad Farras Al Farid"
+angkatan = 2026
+print(f"Halo, {nama} angkatan {angkatan}!")
+
+# SEL 3: List & perulangan
+tools = ["Python","Colab","Jupyter","GitHub"]
+for i, tool in enumerate(tools, 1):
+print(f" {i}. {tool}")
+
+# SEL 4: Fungsi Python
+def perkenalan(nama, prodi, angkatan):
+return f"{nama} | {prodi} | {angkatan}"
+
+print(perkenalan("Budi","Informatika",2024))
