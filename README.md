@@ -40,3 +40,8 @@ Tujuan mempelajari *data science* adalah untuk mengembangkan kemampuan dalam men
 ### 7. Pengantar Machine Learning: Regresi Linier
 - **Tools:** Python, Google Colab, GitHub
 - **Python Dependencies:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`
+
+## Kesimpulan
+Secara Umum, Pertmuan 1-7 memberikan gambaran bagi saya proses analisis data mulai dari mengumpulkan data, validasi, membersihkan data, sampai siap untuk dilakukan analisis sesuai kebutuhan menggunakan tools python dan librarynya
+
+GDrive Link : https://drive.google.com/drive/folders/16V5fh3C7Y6NepDEzM-ytArJA3Bb-it74?usp=sharing
